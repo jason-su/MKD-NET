@@ -1,0 +1,11 @@
+eclipse.preferences.version=1
+encoding//core/models/CornerNet_Squeeze.py=utf-8
+encoding//core/models/py_utils/losses.py=utf-8
+encoding//core/models/py_utils/modules.py=utf-8
+encoding//core/models/py_utils/utils.py=utf-8
+encoding//core/models/py_utils/visualize.py=utf-8
+encoding//core/nnet/py_factory.py=utf-8
+encoding//core/sample/cornernet.py=utf-8
+encoding//core/test/cornernet.py=utf-8
+encoding/train.py=utf-8
+encoding/train_mask.py=utf-8

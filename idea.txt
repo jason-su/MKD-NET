@@ -1,0 +1,4 @@
+
+1.pre的三次下采样，改用dilated conv；增加感受野；
+2.两遍top-left和bottom-right的分支，可以改成从不同地方引出；
+3.
